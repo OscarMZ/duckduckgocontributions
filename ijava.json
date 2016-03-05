@@ -1,0 +1,82 @@
+{
+    "id": "ijava_cheat_sheet",
+    "name": "Interactive Java",
+    "description": "A small cheatsheet about the main functions of Interactive Java, a java-based language",
+
+    "metadata": {
+        "sourceName": "Descubre la programación",
+        "sourceUrl" : "http://descubre.inf.um.es/lenguaje-01.php"
+    },
+
+    "aliases": [
+        "ijava", "interactive java", "java interactive"
+    ],
+
+    "template_type": "code",
+
+    "section_order": [
+        "Graphic Functions",
+        "Mathematic Functions",
+        "Variables",
+        "Data Read"
+    ],
+
+    "sections": {
+        "Graphic Functions": [
+            {
+                "key": "point(x,y)",
+                "val": "Draw a point in (x,y)"
+            },
+            {
+                "key": "line(x1,y1,x2,y2)",
+                "val": "Draw a line"
+            },
+            {
+                "key":"ellipse(x,y,w,h)",
+                "val":"Draw an ellipse"
+            }
+        ],
+        "Mathematic Functions": [
+            {
+                "key": "abs(n)",
+                "val": "Abs of n"
+            },
+            {
+                "key": "sqrt(n",
+                "val": "sqrt of n"
+            },
+            {
+                "key": "log(n)",
+                "val": "log of n"
+            }
+        ],
+        "Variables": [
+            {
+                "key": "int(n)",
+                "val": "An integer number"
+            },
+            {
+                "key": "double(n)",
+                "val": "A rational number"
+            },
+            {
+                "key": "boolean(logic)",
+                "val": "A 0 or 1 value"
+            }
+        ],
+        "Data Read": [
+            {
+                "key": "readInteger()",
+                "val": "Read a integer number"
+            },
+            {
+                "key": "readDouble()",
+                "val": "Read a rationar number"
+            },
+            {
+                "key": "readString()",
+                "val": "Read a text string"
+            }
+        ]
+    }
+}

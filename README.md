@@ -1,2 +1,2 @@
 # Software Contributions
-My personal repository of DuckDuckGo Contributions
+My personal repository with my software contributions.
